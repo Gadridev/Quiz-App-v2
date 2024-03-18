@@ -1,0 +1,187 @@
+{
+  "_id": "5e7db8b7b8b702001f2b8702",
+  "title": "CSS Quiz",
+  "description": "Test your CSS knowledge",
+  "questions": [
+    {
+      "_id": "5e7db8b7b8b702001f2b8703",
+      "question": "What does CSS stand for?",
+      "options": [
+        "Counter Strike: Source",
+        "Computer Style Sheets",
+        "Creative Style System",
+        "Cascading Style Sheets"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8704",
+      "question": "Which property is used to change the background color of an element?",
+      "options": [
+        "color",
+        "background-color",
+        "bgcolor",
+        "background"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8705",
+      "question": "What does the 'box-sizing' property do in CSS?",
+      "options": [
+        "Defines the box model for an element",
+        "Specifies whether an element should float to the left or right",
+        "Determines how the total width and height of an element is calculated",
+        "Sets the display behavior of an element"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8706",
+      "question": "In CSS, what does the 'Z-index' property control?",
+      "options": [
+        "Element's vertical alignment",
+        "Element's opacity",
+        "Element's stacking order",
+        "Element's text alignment"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8707",
+      "question": "Which CSS selector is used to select all elements with a specific class?",
+      "options": [
+        ".class",
+        "#id",
+        "*",
+        "&lt;element&gt;"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8708",
+      "question": "What is the purpose of the 'margin' property in CSS?",
+      "options": [
+        "Controls the spacing between elements' border and content",
+        "Sets the background color of an element",
+        "Defines the font size of an element",
+        "Specifies the width of an element"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8709",
+      "question": "Which CSS property is used for adding shadows to text?",
+      "options": [
+        "text-shadow",
+        "box-shadow",
+        "shadow",
+        "font-shadow"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b870a",
+      "question": "In CSS, what is the 'float' property used for?",
+      "options": [
+        "Adjusts the spacing between elements",
+        "Determines whether an element should be to the left or right of its container",
+        "Sets the width of an element",
+        "Changes the font style of text"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b870b",
+      "question": "Which CSS unit is used for specifying a font size relative to the root element?",
+      "options": [
+        "rem",
+        "em",
+        "px",
+        "%"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b870c",
+      "question": "What is the default value of the 'position' property in CSS?",
+      "options": [
+        "relative",
+        "absolute",
+        "fixed",
+        "static"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b870d",
+      "question": "How can you center an element horizontally in CSS?",
+      "options": [
+        "text-align: center;",
+        "margin: auto;",
+        "align: center;",
+        "justify-content: center;"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b870e",
+      "question": "Which CSS property is used for controlling the space between lines of text?",
+      "options": [
+        "line-height",
+        "spacing",
+        "letter-spacing",
+        "line-spacing"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b870f",
+      "question": "What is the purpose of the 'transition' property in CSS?",
+      "options": [
+        "Defines the speed curve for a transition",
+        "Specifies the duration of a transition",
+        "Sets the delay before a transition starts",
+        "Applies a transition effect to an element"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8710",
+      "question": "Which CSS pseudo-class is used to select and style the last child element of a parent?",
+      "options": [
+        ":last",
+        ":nth-child",
+        ":last-child",
+        ":nth-last-child"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "_id": "5e7db8b7b8b702001f2b8711",
+      "question": "What does the 'flex' property in CSS do?",
+      "options": [
+        "Specifies the font style",
+        "Adjusts the spacing between elements",
+        "Defines a flexible length or size of an element",
+        "Changes the display behavior of an element"
+      ],
+      "correctOption": 2,
+      "points": 10
+    }
+  ]
+}
